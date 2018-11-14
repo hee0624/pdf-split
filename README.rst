@@ -1,6 +1,6 @@
 Split-Pdf
 =========================
-The usage is simple。
+The usage is simple.
 
 .. code-block:: shell
 
