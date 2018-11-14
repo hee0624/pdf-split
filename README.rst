@@ -1,8 +1,6 @@
 Split-Pdf
 =========================
-
-The simplest use case is retrying a flaky function whenever an Exception occurs
-until a value is returned.
+The usage is simple。
 
 .. code-block:: shell
 
